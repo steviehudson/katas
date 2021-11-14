@@ -1,0 +1,8 @@
+C:\git\katas\Katas.FizzBuzz\bin\Debug\Katas.FizzBuzz.dll
+C:\git\katas\Katas.FizzBuzz\bin\Debug\Katas.FizzBuzz.pdb
+C:\git\katas\Katas.FizzBuzz\bin\Debug\nunit.framework.dll
+C:\git\katas\Katas.FizzBuzz\bin\Debug\nunit.framework.xml
+C:\git\katas\Katas.FizzBuzz\obj\Debug\Katas.FizzBuzz.csproj.CoreCompileInputs.cache
+C:\git\katas\Katas.FizzBuzz\obj\Debug\Katas.FizzBuzz.dll
+C:\git\katas\Katas.FizzBuzz\obj\Debug\Katas.FizzBuzz.pdb
+C:\git\katas\Katas.FizzBuzz\obj\Debug\Katas.FizzBuzz.csproj.AssemblyReference.cache
